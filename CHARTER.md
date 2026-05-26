@@ -1,4 +1,4 @@
-# Studio Charter: <project name>
+# Studio Charter: Movie Script Analyzer
 
 > Filled in live during the **Studio Charter** session in week 3. Every section below is committed in the same commit at the end of that class block. See [Studio Charter (single-session inception)](https://courses.lpcordova.phd/data510/project-framework/charter-inception.html) for the script and time-boxes.
 
@@ -6,46 +6,60 @@
 **Owner Product Lead:** Dylan Ray
 **Peer Stakeholder POs:** Sophia Rabbanian, Tiffany Truong,	Courtney St. Onge
 **Instructor / Sponsor:** Lucas Cordova (`LucasCordova` on GitHub)
-**GitHub repo:** <link to this repo>
-**GitHub Projects board:** <link>
-**Discord category:** `#<project>-*`
-**Studio Session:** <1, 2, or 3>
-**Studio formed:** <date>
+**GitHub repo:** (https://github.com/DylanR-hash/data510-capstone/edit/main/README.md)
+**GitHub Projects board:** 	https://github.com/users/DylanR-hash/projects/1
+**Discord category:** Group 11
+**Studio Session:** 1
+**Studio formed:** 5/25/26
 
 ## Vision
 
-One or two sentences. The world (or organization, or domain) if this project succeeds.
+My movie script analyzer would be a tool to help studios evaluate movie scripts for usability. It would also be used to help movie writers improve their scripts to increase the chances that their idea will get picked up by a big studio.
 
 ## Mission
 
-One or two sentences. What the owner team will actually do this semester.
+Able to help screen writers to be able to improve their scripts and have a higher chance of the studio buying their idea. Also gives the studio a better way to figure out how to choose a script out of a batch of different ideas to increase the chances of a good one being found.  
 
 ## Context
 
-- **Users / affected parties:** who benefits, who is at risk, who might use the result.
-- **Data sources (proposed):** named sources, access status, license / ethics notes.
-- **Constraints:** time, compute, access, skills, scope.
-- **Ethics risks:** consent, retention, PII, fairness, deployment risk.
+- **Users / affected parties:**
+- Benefits:
+- Improve writing
+- More cohesive idea of the story
+- Risk:
+- Might not improve what the studio may want
+- May take a beat to analyse a longer script
+- The more obscure the idea, the model may not like it if there is nothing to compare to
+- Who Might Use: Studio executives, screenwriters, writing professors/teachers
+- **Data sources (proposed):**
+- https://www.simplyscripts.com/movie-scripts.html#google_vignette(Where I am downloading the scripts)
+- **Constraints:**
+- The amount of time I can focus on this one project
+- How well the model will take to different scripts
+- How much data can my computer hold of movie scripts
+- **Ethics risks:**
+- Taking scripts from writers without their permission
+- Might not correlate to profit even if the script is good
 
 ## Success criteria by milestone
 
-- **M1, proposal (W4):** <measurable criterion>
-- **M2, data summary (W7):** <measurable criterion>
-- **M3, poster rough draft (W10):** <measurable criterion>
+- **M1, proposal (W4):** Have an idea of what is needed to start the project
+- **M2, data summary (W7):** Be able to read and analyze a short script created by AI
+- **M3, poster rough draft (W10):** Able to do it on real script
 - **M4, write-up rough draft (W12):** <measurable criterion>
 - **M5, final write-up and poster (W14):** <measurable criterion>
 
 ## Working agreements (internal to owner team)
 
-- **Sync rhythm:** <e.g., one async standup per weekday in `#<project>-standup`>
-- **Code review:** <who reviews what, by when>
-- **Decision rule:** <how the team decides when it disagrees>
+- **Sync rhythm:** Working by myself
+- **Code review:** Myself
+- **Decision rule:** Me
 
 ## Working agreements (triad with peer POs)
 
-- **Studio Brief due:** <example: by 5 pm the day before class, committed to `studio/briefs/W<NN>-<peer>.md` and linked in `#<project>-studio` on Discord>. If the owner team needs the peer POs to read or review something specific *before* the Studio Session (a data preview, model results, a draft figure), file the Brief earlier so the peer POs actually have time to do that homework. Otherwise the default is "before the Studio Session starts."
-- **Studio Critique due:** <example: by the end of class for the in-person discussion, or at an agreed-upon time within one day after class (e.g., 5 pm the next day) if the peer PO needs extra time to draft a thoughtful write-up>.
-- **Priority conflict resolution:** owner team integrates briefs in good faith; the instructor arbitrates (as Process Expert) if peer POs and owner team disagree.
+- **Studio Brief due:** Submit the Brief before 6 pm on Monday before class
+- **Studio Critique due:** Submit the Critique before 6 pm on Monday before class
+- **Priority conflict resolution:** We will discuss and collaborate on a solution, and each person will discuss their problem and why it's important  
 
 ## Response SLAs (Service Level Agreements)
 
@@ -86,7 +100,7 @@ A PBI is done, and may be moved from `Analyze` into `Done`, when:
 ## Stakeholder alignment memo (one-page summary)
 
 ### Why we exist
-<two sentences from Vision and Mission>
+My movie script analyzer would be a tool to help studios evaluate movie scripts for usability. It would also be used to help movie writers improve their scripts to increase the chances that their idea will get picked up by a big studio.
 
 ### What we will deliver to peer POs every week
 - An Iteration Review in this `README.md` by <day / time>
