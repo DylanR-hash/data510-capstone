@@ -6,13 +6,13 @@
 
 | Field | Value |
 |-------|-------|
-| Owner team | <Dylan> |
-| Owner Product Lead | <Dylan> |
-| Peer Stakeholder POs | <Courtney, Seira, Mary> |
+| Owner team | Dylan Ray |
+| Owner Product Lead | Dylan Ray |
+| Peer Stakeholder POs | Courtney, Seira, Mary |
 | Studio Session | <1> |
-| GitHub repo | <link to this repo> |
-| GitHub Projects board | <link> |
-| Discord category | `#<project>-*` |
+| GitHub repo | link to this repo: https://github.com/DylanR-hash/data510-capstone/edit/main/README.md |
+| GitHub Projects board | https://github.com/users/DylanR-hash/projects/1 |
+| Discord category | Group 11 |
 | Instructor / Sponsor | Lucas Cordova (`LucasCordova` on GitHub) |
 
 ## What this repo contains
