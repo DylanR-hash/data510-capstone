@@ -8,7 +8,7 @@
 |-------|-------|
 | Owner team | Dylan Ray |
 | Owner Product Lead | Dylan Ray |
-| Peer Stakeholder POs | Courtney, Seira, Mary |
+| Peer Stakeholder POs | Sophia Rabbanian	Tiffany Truong	Courtney St. Onge |
 | Studio Session | <1> |
 | GitHub repo | link to this repo: https://github.com/DylanR-hash/data510-capstone/edit/main/README.md |
 | GitHub Projects board | https://github.com/users/DylanR-hash/projects/1 |
