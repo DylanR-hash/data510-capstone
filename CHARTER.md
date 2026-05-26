@@ -2,9 +2,9 @@
 
 > Filled in live during the **Studio Charter** session in week 3. Every section below is committed in the same commit at the end of that class block. See [Studio Charter (single-session inception)](https://courses.lpcordova.phd/data510/project-framework/charter-inception.html) for the script and time-boxes.
 
-**Owner team:** <names>
-**Owner Product Lead:** <name>
-**Peer Stakeholder POs:** <names of your 2 or 3 peer PO individuals>
+**Owner team:** Dylan Ray
+**Owner Product Lead:** Dylan Ray
+**Peer Stakeholder POs:** Sophia Rabbanian, Tiffany Truong,	Courtney St. Onge
 **Instructor / Sponsor:** Lucas Cordova (`LucasCordova` on GitHub)
 **GitHub repo:** <link to this repo>
 **GitHub Projects board:** <link>
