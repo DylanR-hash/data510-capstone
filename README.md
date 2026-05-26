@@ -1,4 +1,4 @@
-# <Project Name>
+# <Movie Script Analyizer>
 
 > One-sentence description of what this project is about. Replace this entire block before week 3.
 
