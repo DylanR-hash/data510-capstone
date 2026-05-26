@@ -24,22 +24,26 @@ Able to help screen writers to be able to improve their scripts and have a highe
 
 - **Users / affected parties:**
 - Benefits:
-- Improve writing
-- More cohesive idea of the story
+  - Improve writing
+  - More cohesive idea of the story
 - Risk:
-- Might not improve what the studio may want
-- May take a beat to analyse a longer script
-- The more obscure the idea, the model may not like it if there is nothing to compare to
-- Who Might Use: Studio executives, screenwriters, writing professors/teachers
+  - Might not improve what the studio may want
+  - May take a beat to analyse a longer script
+  - The more obscure the idea, the model may not like it if there is nothing to compare to
+  - Might not correlate to profit even if the script is good
+- Who Might Use:
+  - Studio executives,
+  - Screenwriters,
+  - Writing professors/teachers
 - **Data sources (proposed):**
-- https://www.simplyscripts.com/movie-scripts.html#google_vignette(Where I am downloading the scripts)
+  - https://www.simplyscripts.com/movie-scripts.html#google_vignette(Where I am downloading the scripts)
 - **Constraints:**
-- The amount of time I can focus on this one project
-- How well the model will take to different scripts
-- How much data can my computer hold of movie scripts
+  - The amount of time I can focus on this one project
+  - How well the model will take to different scripts
+  - How much data can my computer hold of movie scripts
 - **Ethics risks:**
-- Taking scripts from writers without their permission
-- Might not correlate to profit even if the script is good
+  - Taking scripts from writers without their permission for a project
+  - Putting a score on a script does not seem ethical for a creative project
 
 ## Success criteria by milestone
 
@@ -57,9 +61,9 @@ Able to help screen writers to be able to improve their scripts and have a highe
 
 ## Working agreements (triad with peer POs)
 
-- **Studio Brief due:** Submit the Brief before 6 pm on Monday before class
-- **Studio Critique due:** Submit the Critique before 6 pm on Monday before class
-- **Priority conflict resolution:** We will discuss and collaborate on a solution, and each person will discuss their problem and why it's important  
+- **Studio Brief due: Submit the Brief before 6 pm on Monday before class
+- **Studio Critique due: Submit the Critique by Wednesday before class
+- **Priority conflict resolution: We will discuss and collaborate on a solution, and each person will discuss their problem and why it's important  
 
 ## Response SLAs (Service Level Agreements)
 
