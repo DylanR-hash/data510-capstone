@@ -26,14 +26,17 @@ Able to help screen writers to be able to improve their scripts and have a highe
 - Benefits:
   - Improve writing
   - More cohesive idea of the story
+  - Find even better ideas from the revision of the 
 - Risk:
   - Might not improve what the studio may want
   - May take a beat to analyse a longer script
   - The more obscure the idea, the model may not like it if there is nothing to compare to
-  - Might not correlate to profit even if the script is good
+  - Might not correlate to profit, even if the script is good
+  - Using a ML model to evaluate a creative space is not the most conclusive answer to fix the script 
 - Who Might Use:
-  - Studio executives,
-  - Screenwriters,
+  - Screenwriters
+  - Smaller Indie Movie Production Companies
+  - Studio executives
   - Writing professors/teachers
 - **Data sources (proposed):**
   - https://www.simplyscripts.com/movie-scripts.html#google_vignette(Where I am downloading the scripts)
@@ -41,10 +44,11 @@ Able to help screen writers to be able to improve their scripts and have a highe
   - The amount of time I can focus on this one project
   - How well the model will take to different scripts
   - How much data can my computer hold of movie scripts
+  - How effective the model is in evaluating a script for suggestions
 - **Ethics risks:**
   - Taking scripts from writers without their permission for a project
   - Putting a score on a script does not seem ethical for a creative project
-
+  - Don't want to discourage personal creativity from the writers
 ## Success criteria by milestone
 
 - **M1, proposal (W4):** Have an idea of what is needed to start the project
@@ -115,6 +119,9 @@ My movie script analyzer would be a tool to help studios evaluate movie scripts 
 - A Studio Critique by <day / time> next class (assessment of last week's delivery)
 
 ### How to reach us
-- Discord category: `#<project>-general` (day-to-day), `#<project>-studio` (Briefs and Critiques), `#<project>-blockers` (impediments)
+- Discord category:
+- `#<project>-general` ([day-to-day](https://discord.com/channels/1277725100816203942/1508558993289646250))
+- `#<project>-studio` ([Briefs and Critiques](https://discord.com/channels/1277725100816203942/1508559366192627883))
+- `#<project>-blockers` ([impediments](https://discord.com/channels/1277725100816203942/1508559399822557194))
 - GitHub repo: <link>
 - GitHub Projects board: <link>
